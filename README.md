@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leiarafaela&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layot=compact&langs=count7&theme=nightowl"/>
   <div/>
-   
-<div style="display: inline_block"><br>
-<img align="left" alt="rafa-py" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
+  
                                                      
   
   
