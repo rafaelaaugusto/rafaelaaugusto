@@ -1,7 +1,8 @@
 ### Oii gente, sou a Léia Rafaela 😄
 
-- ✨ Estou no começo de carreira, tenho muito a aprender e estou me dedicando nisso, dicas e aconselhos são bem vindos!
-- ⚽ Além de codar jogo futebolzinho e toco violão 🎵
+✨ Estou no começo de carreira, tenho muito a aprender e estou me dedicando nisso, dicas e aconselhos são bem vindos!
+
+⚽ Além de codar jogo futebolzinho e toco violão 🎵
 ##
 <div align="center"> 
   <a href="https://github.com/leiarafaela/leiarafaela">
