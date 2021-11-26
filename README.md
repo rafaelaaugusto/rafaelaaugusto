@@ -1,4 +1,4 @@
-### Oii gente, sou a Léia Rafaela 🌈
+### Oii gente, eu sou a Léia Rafaela 🌈
 
 ✨ Estou no começo de carreira, tenho muito a aprender e estou me dedicando nisso, dicas e aconselhos são bem vindos!
 
