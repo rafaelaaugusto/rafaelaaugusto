@@ -1,6 +1,7 @@
 ### Oii gente, eu sou a Léia Rafaela! 🌈
 
-✨ Estudante de Sistemas da Informação<br>
+✨ Back-end Junior <br>
+✔ Estudante de Sistemas da Informação<br>
 📚 Aprimorando meus conhecimentos diariamente
 
 
