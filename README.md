@@ -1,4 +1,4 @@
-### Oii gente, eu sou a Léia Rafaela! 🌈
+### Oii gente!
 
 ✨ Back-end Junior <br>
 ✔ Estudante de Sistemas da Informação<br>
