@@ -12,8 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layot=compact&langs=count7&theme=nightowl"/>
   <div/>
    <div style="display: inline_block"><br>
-  <img align="right" alt="rafa" heigth="150" width="150" src="https://cdn.discordapp.com/attachments/894689620174979165/894690245541507102/Rafaela-im.png">
-   
   <div/><br>
      
   ##
