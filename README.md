@@ -8,8 +8,8 @@
 ##
 <div align="center"> 
   <a href="https://github.com/leiarafaela/leiarafaela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leiarafaela&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layot=compact&langs=count7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leiarafaela&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/><br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layot=compact&langs=count7&theme=nightowl"/>
   <div/>
    <div style="display: inline_block"><br>
   <div/><br>
