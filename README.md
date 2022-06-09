@@ -1,6 +1,6 @@
 ### Hi guys!
 
-✔ Estudante de Sistemas da Informação<br>
+✔ Estudante de Sistemas da Informação | FIT <br>
 📚 Aprimorando meus conhecimentos diariamente
 
 
