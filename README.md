@@ -1,6 +1,6 @@
 ### Hi guys!
 
-✔ 4º sem. Sistemas da Informação | FIT <br>
+✔ 5º sem. Sistemas da Informação | FIT <br>
 📚 Aprimorando meus conhecimentos diariamente
 
 
