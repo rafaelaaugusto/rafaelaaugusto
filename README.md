@@ -6,9 +6,9 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
 👩🏻‍💻 Desenvolvimento mobile e web
 
 <div> 
-  <a href="https://github.com/rafaelaugustodev/leiarafaela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leiarafaela&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layout=compact&theme=midnight-purple&card_width=450"/>
+  <a href="https://github.com/rafaelaaugusto/rafaelaaugusto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelaaugusto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaaugusto&layout=compact&theme=midnight-purple&card_width=450"/>
 <div/>
 
 ## Tecnologias
@@ -24,7 +24,7 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
 ## Redes Sociais
  <div align="left">
  <a href="https://www.instagram.com/eirafz/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/leia-rafaela/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rafaelaaugusto/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:rafaela20augusto@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <div/>
  
