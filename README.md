@@ -6,7 +6,7 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
 👩🏻‍💻 Desenvolvimento mobile e web
 
 <div> 
-  <a href="https://github.com/leiarafaela/leiarafaela">
+  <a href="https://github.com/rafaelaugustodev/leiarafaela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leiarafaela&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiarafaela&layout=compact&theme=midnight-purple&card_width=450"/>
 <div/>
