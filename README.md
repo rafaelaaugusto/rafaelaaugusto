@@ -2,7 +2,7 @@
 
 Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma café o dia todo (água também!).
 
-📚 8º sem. Sistemas de Informação | FIT <br>
+📚 Formada em Sistemas de Informação | FIT <br>
 👩🏻‍💻 Desenvolvimento mobile e web
 
 <div> 
