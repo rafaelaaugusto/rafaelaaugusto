@@ -36,7 +36,7 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
 
 <div> 
   <a href="https://github.com/rafaelaaugusto/rafaelaaugusto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelaaugusto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelaaugusto&show_icons=true&theme=midnight-purple&card_width=400&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaaugusto&layout=compact&theme=midnight-purple&card_width=400"/>
 <div/>
 
@@ -46,9 +46,3 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
  <a href="https://www.linkedin.com/in/rafaelaaugusto/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:rafaela20augusto@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <div/>
-     
-###
-
-<img src="https://raw.githubusercontent.com/rafaelaaugusto/rafaelaaugusto/output/snake.svg" alt="Snake animation" />
-
-###
