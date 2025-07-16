@@ -26,12 +26,6 @@ Uma Dev Jr em constante aprendizado, que se aventura no mundo full-stack e toma 
 
 ###
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaaugusto&layout=compact&theme=midnight-purple&card_width=400"/>
-<div/>
-
-###
-
  <div align="left">
 
    ## Redes Sociais
